@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 
 http://localhost:5173/
+
+Here is the link to deployment: https://block26-contact-list.vercel.app/
